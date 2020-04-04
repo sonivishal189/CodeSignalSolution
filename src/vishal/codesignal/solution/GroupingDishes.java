@@ -51,7 +51,6 @@ public class GroupingDishes {
 			}
 		}
 
-//	    Collections.sort(list,(a,b)->a[0].compareTo(b[0]));
 		return list.toArray(new String[0][]);
 	}
 }
